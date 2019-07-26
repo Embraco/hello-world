@@ -3,7 +3,7 @@
 int main(int argc, char const *argv[]) {
    int i;
 
-   printf("Hello, world!\n\n");
+   printf("Hello, World!\n\n");
 
    /* Loops and prints the parameters passed */
    printf("argc: %d\n", argc);
